@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "341699763345",
+    "project_id": "thewindowbay-a9df2",
+    "storage_bucket": "thewindowbay-a9df2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341699763345:android:46a1f0ad1fe0bdc87e7330",
+        "android_client_info": {
+          "package_name": "com.thewindowbay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341699763345-v91dlaethh57158hna28c8rs1sojdons.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYPCSn7K1o5Aot_ksMvqWFZG-lpvE-0JA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341699763345-v91dlaethh57158hna28c8rs1sojdons.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
